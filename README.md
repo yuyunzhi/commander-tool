@@ -1,2 +1,2 @@
-# Commander
+# commander-tool
 # commander-tool
