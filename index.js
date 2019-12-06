@@ -9,8 +9,8 @@ const consola = require('consola');
 // 生成二维码
 const qrcode = require('qrcode-terminal');
 
-const XPUtil = require('./util');
-const pkg = require('./package.json');
+// const XPUtil = require('./util');
+// const pkg = require('./package.json');
 
 
 const getInfomation = () => {
